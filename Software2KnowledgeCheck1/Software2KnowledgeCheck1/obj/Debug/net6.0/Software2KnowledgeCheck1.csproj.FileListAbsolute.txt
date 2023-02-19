@@ -1,0 +1,5 @@
+C:\Users\cbish\Source\Repos\Software-2-Knowledge-Check-1\Software2KnowledgeCheck1\Software2KnowledgeCheck1\obj\Debug\net6.0\Software2KnowledgeCheck1.csproj.AssemblyReference.cache
+C:\Users\cbish\Source\Repos\Software-2-Knowledge-Check-1\Software2KnowledgeCheck1\Software2KnowledgeCheck1\obj\Debug\net6.0\Software2KnowledgeCheck1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbish\Source\Repos\Software-2-Knowledge-Check-1\Software2KnowledgeCheck1\Software2KnowledgeCheck1\obj\Debug\net6.0\Software2KnowledgeCheck1.AssemblyInfoInputs.cache
+C:\Users\cbish\Source\Repos\Software-2-Knowledge-Check-1\Software2KnowledgeCheck1\Software2KnowledgeCheck1\obj\Debug\net6.0\Software2KnowledgeCheck1.AssemblyInfo.cs
+C:\Users\cbish\Source\Repos\Software-2-Knowledge-Check-1\Software2KnowledgeCheck1\Software2KnowledgeCheck1\obj\Debug\net6.0\Software2KnowledgeCheck1.csproj.CoreCompileInputs.cache
